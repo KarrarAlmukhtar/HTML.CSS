@@ -1,0 +1,62 @@
+.navbar {
+    background-color: white;
+    position: fixed;
+    top: 0;
+    width: 100%; 
+}
+.navbar li {
+    display: inline-block;
+    padding: 20px 10px;
+}
+.navbar a  {
+    text-decoration: none;
+    color:black;
+}
+.banner {
+    background-color: #1b0749;
+    color: white;
+    margin-top: 75px;
+    text-align: center;
+    padding: 100px;
+}
+.bold {
+    font-weight: 900;
+}                   
+#the-god-war {
+    height: 250px;
+    width: 200px;
+    filter: drop-shadow(1px 1px 1px black);
+}
+#sword {
+    color: darkred;
+    font-size: 100px;
+}
+.greets {
+    list-style-type: none;
+} 
+.war {
+    padding: 40px;
+}
+.avatar {
+    background-image: url(../god.webp);
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    border-radius: 10;
+}
+.avatar1 {
+    background-image: url(../god2.jpg);
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    border-radius: 10;
+
+}
+.avatar2 {
+    background-image: url(../god3.jpg);
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    border-radius: 10;
+
+}
